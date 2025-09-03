@@ -35,7 +35,7 @@ class AIEngine:
                 raise ValueError("GEMINI_API_KEY non è impostata nel tuo file .env.")
             genai.configure(api_key=api_key)
             self.model = genai.GenerativeModel(
-                'gemini-1.5-pro-latest',
+                'gemini-2.5-pro',
                 generation_config={"response_mime_type": "application/json"}
             )
         except Exception as e:
