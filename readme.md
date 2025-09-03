@@ -1,6 +1,6 @@
 # AI TechDoc Gen - Technical Document Generator
 
-**AI techDoc Gen** is an intelligent, AI-powered documentation generator that leverages the capabilities of **Google Gemini 1.5 Pro** to create high-quality, structured developer documentation that adheres to the Diataxis framework. This tool is designed to analyze source code, API specifications, and other technical documents to produce clear, concise, and maintainable documentation.
+**AI techDoc Gen** is an intelligent, AI-powered documentation generator that leverages the capabilities of **Google Gemini 2.5 Pro** to create high-quality, structured developer documentation that adheres to the Diataxis framework. This tool is designed to analyze source code, API specifications, and other technical documents to produce clear, concise, and maintainable documentation.
 
 The application follows a multi-step workflow to ensure the quality and relevance of the generated content:
 
