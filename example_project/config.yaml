@@ -1,0 +1,7 @@
+github_repo: pagopa/prodotto-x-docs
+github_token: ghp_xxxxxxxxxxxx
+local_output_dir: generated_docs
+output_path: docs/v1.2
+product_name: Prodotto X
+source_dir: example_project/source_docs
+version: 1.2.0

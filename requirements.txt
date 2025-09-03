@@ -1,0 +1,4 @@
+rich
+pyyaml
+google-generativeai
+python-dotenv
